@@ -1,3 +1,9 @@
+## Run fake api
+```
+npm install -g json-server
+json-server server.json -p 3333
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
